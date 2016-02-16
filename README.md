@@ -1,4 +1,4 @@
-This is a project using the Ionic framework, Node.js and Angular.js. 
+This is a project using the Ionic framework, Node.js and Angular.js.  It was installed using bower.js and gulp.js.
 
 For more info on the Ionic mobile framework, visit http://ionicframework.com
 
