@@ -1,0 +1,30 @@
+body {
+	font-size:16px;
+}
+
+.branding {
+	background:url('../img/doctors.jpg') no-repeat;
+	height:650px;
+	background-size:cover;
+	background-position:center 0px;
+	background-attachment:fixed;
+	h1 {
+		padding-top:10px;
+		color:purple;
+		text-align:center;
+		margin:0;
+		padding:0;
+	}
+	p {
+		margin-left:10px;
+		text-align:center;
+	}
+}
+
+.dayhighlight {
+	h2 {
+		font-family:"Verdana","Arial",sans-serif;
+		font-weight:800;
+		font-size:1em;
+	}
+}

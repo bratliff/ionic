@@ -1,0 +1,150 @@
+{
+  "calendar": [
+    {
+      "weekday": "Monday",
+      "title": "New Medical Techniques",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia.",
+      "schedule": [
+        {
+          "time": "9:30-10:30am",
+          "shortname": "chin_tza",
+          "artist": "Chin Tza",
+          "room": "Elizabeth Hall",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. ",
+          "title": "Seminar on Prenatal Care"
+        }, {
+          "time": "11:00am-1pm",
+          "shortname": "david_hanson",
+          "name": "David Hanson",
+          "room": "Victoria Hall",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia.",
+          "title": "New Procedures for Knee Replacement"
+        },{
+          "time": "2:30-4:00pm",
+          "room": "Dennison Hall",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia.",
+          "title": "Cystofibrosis"
+        }
+      ]
+    }, {
+      "weekday": "Tuesday",
+      "title": "Developmental Pediatrics",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia.",
+      "schedule": [
+        {
+          "time": "9:30-10:30am",
+          "shortname": "guy_farrel",
+          "artist": "Guy Farrel",
+          "room": "Elizabeth Hall",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. ",
+          "title": "New Facts About SIDs"
+        },{
+          "time": "10:30am-1pm",
+          "room": "Fountain of Intrigue",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia.",
+          "title": "Treating Rheumatoid Fevers"
+        },{
+          "time": "2:30-4:00pm",
+          "shortname": "marie_jensen",
+          "artist": "Marie Jensen",
+          "room": "Dennison Hall",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. ",
+          "title": "New Developments in Child Psychology"
+        }
+      ]
+    }, {
+      "weekday": "Wednesday",
+      "schedule": [
+        {
+          "time": "9:30 to 10:30 am",
+          "shortname": "jim_harrison",
+          "artist": "Jim Harrison",
+          "room": "Elizabeth Hall",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia.",
+          "title": "Laser-guided Surgical Techniques"
+        },{
+          "time": "10:45 to 12:00 pm",
+          "shortname": "Xhou_Ta",
+          "artist": "Xhou Ta",
+          "room": "Dennison Hall",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia.",
+          "title": "Early Diagnosis of Colon Cancer"
+        }
+      ]
+    }, {
+      "weekday": "Thursday",
+      "schedule": [
+        {
+          "time": "09:30 to 10:30 am",
+          "shortname": "shirley_simpson",
+          "artist": "Shirley Simpson",
+          "room": "Elizabeth Hall",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia.",
+          "title": "New Techniques in Artificial Heart Replacement"
+        },{
+          "time": "10:30 to 11:30 am",
+          "shortname": "constance_anders",
+          "artist": "Constance Anders",
+          "room": "Victoria Hall",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia.",
+          "title": "Diagnosing Dementia"
+        },{
+          "time": "1:30 to 2:30",
+          "shortname": "jim_harrison",
+          "artist": "Jim Harrison",
+          "room": "Dennison Hall",
+          "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. ",
+          "title": "New Stint Techniques"
+        }
+      ]
+    }
+  ],
+  "artists": [
+    {
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. Cras euismod nisl et sem interdum, in ultricies dui laoreet. In sed lacinia orci, ut elementum erat. Integer diam arcu, pellentesque eu accumsan at, condimentum ac tortor. Aliquam consequat odio porta felis scelerisque bibendum non quis diam. Praesent at elementum quam. Maecenas non bibendum elit, in lobortis metus. Donec egestas risus augue, eget feugiat mauris tristique a. Nulla imperdiet vitae massa sit amet dictum.",
+      "shortname": "chin_tza",
+      "name": "Chin Tza",
+      "reknown": "Mayo Clinic"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. Cras euismod nisl et sem interdum, in ultricies dui laoreet. In sed lacinia orci, ut elementum erat. Integer diam arcu, pellentesque eu accumsan at, condimentum ac tortor. Aliquam consequat odio porta felis scelerisque bibendum non quis diam. Praesent at elementum quam. Maecenas non bibendum elit, in lobortis metus. Donec egestas risus augue, eget feugiat mauris tristique a. Nulla imperdiet vitae massa sit amet dictum.",
+      "shortname": "constance_anders",
+      "name": "Constance Anders",
+      "reknown": "Boston University"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. Cras euismod nisl et sem interdum, in ultricies dui laoreet. In sed lacinia orci, ut elementum erat. Integer diam arcu, pellentesque eu accumsan at, condimentum ac tortor. Aliquam consequat odio porta felis scelerisque bibendum non quis diam. Praesent at elementum quam. Maecenas non bibendum elit, in lobortis metus. Donec egestas risus augue, eget feugiat mauris tristique a. Nulla imperdiet vitae massa sit amet dictum.",
+      "shortname": "daniel_mann",
+      "name": "Daniel Mann",
+      "reknown": "New York University"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. Cras euismod nisl et sem interdum, in ultricies dui laoreet. In sed lacinia orci, ut elementum erat. Integer diam arcu, pellentesque eu accumsan at, condimentum ac tortor. Aliquam consequat odio porta felis scelerisque bibendum non quis diam. Praesent at elementum quam. Maecenas non bibendum elit, in lobortis metus. Donec egestas risus augue, eget feugiat mauris tristique a. Nulla imperdiet vitae massa sit amet dictum.",
+      "shortname": "david_hanson",
+      "name": "David Hanson",
+      "reknown": "University of Illinois"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. Cras euismod nisl et sem interdum, in ultricies dui laoreet. In sed lacinia orci, ut elementum erat. Integer diam arcu, pellentesque eu accumsan at, condimentum ac tortor. Aliquam consequat odio porta felis scelerisque bibendum non quis diam. Praesent at elementum quam. Maecenas non bibendum elit, in lobortis metus. Donec egestas risus augue, eget feugiat mauris tristique a. Nulla imperdiet vitae massa sit amet dictum.",
+      "shortname": "ingrid_torrance",
+      "name": "Ingrid Torrance",
+      "reknown": "Houston Medical Center"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. Cras euismod nisl et sem interdum, in ultricies dui laoreet. In sed lacinia orci, ut elementum erat. Integer diam arcu, pellentesque eu accumsan at, condimentum ac tortor. Aliquam consequat odio porta felis scelerisque bibendum non quis diam. Praesent at elementum quam. Maecenas non bibendum elit, in lobortis metus. Donec egestas risus augue, eget feugiat mauris tristique a. Nulla imperdiet vitae massa sit amet dictum.",
+      "shortname": "shirley_simpson",
+      "name": "Shirley Simpson",
+      "reknown": "Boston Medical"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. Cras euismod nisl et sem interdum, in ultricies dui laoreet. In sed lacinia orci, ut elementum erat. Integer diam arcu, pellentesque eu accumsan at, condimentum ac tortor. Aliquam consequat odio porta felis scelerisque bibendum non quis diam. Praesent at elementum quam. Maecenas non bibendum elit, in lobortis metus. Donec egestas risus augue, eget feugiat mauris tristique a. Nulla imperdiet vitae massa sit amet dictum.",
+      "shortname": "janet_hu",
+      "name": "Janet Hu",
+      "reknown": "University of London"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. Cras euismod nisl et sem interdum, in ultricies dui laoreet. In sed lacinia orci, ut elementum erat. Integer diam arcu, pellentesque eu accumsan at, condimentum ac tortor. Aliquam consequat odio porta felis scelerisque bibendum non quis diam. Praesent at elementum quam. Maecenas non bibendum elit, in lobortis metus. Donec egestas risus augue, eget feugiat mauris tristique a. Nulla imperdiet vitae massa sit amet dictum.",
+      "shortname": "marie_jensen",
+      "name": "Marie Jensen",
+      "reknown": "UCLA"
+    },{
+      "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque vehicula tortor pretium metus condimentum ultrices. Pellentesque sed purus ex. Vestibulum nec justo sagittis, maximus velit in, commodo mi. Aenean sodales massa non nulla dapibus lacinia. Cras euismod nisl et sem interdum, in ultricies dui laoreet. In sed lacinia orci, ut elementum erat. Integer diam arcu, pellentesque eu accumsan at, condimentum ac tortor. Aliquam consequat odio porta felis scelerisque bibendum non quis diam. Praesent at elementum quam. Maecenas non bibendum elit, in lobortis metus. Donec egestas risus augue, eget feugiat mauris tristique a. Nulla imperdiet vitae massa sit amet dictum.",
+      "shortname": "Xhou_Ta",
+      "name": "Xhou Ta",
+      "reknown": "Shanghai University"
+    }
+  ]
+}
